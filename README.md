@@ -25,9 +25,9 @@ The Vrinda Store wants to create an annual sales report for 2023. So that, the o
 - Data Processing: Two columns ‘Age Group’ and ‘Month’ were added for deeper analysis of dataset.
 - Data analysis: Pivot Tables were created for uncovering patterns and trends.
 - Data Visualization: Various Charts, graphs and slicers were created for visualizing the key insights.
-## Dashboard
 
-![vrinda-store-sale](https://github.com/sunitabisht22/Vrinda-store-Annual-Report-2023-Analysis/assets/84614536/a8969d57-1b06-41b1-9f29-bc6565068b4d)
+# Dashboard
+![Vrinda store sales dashboard](https://github.com/sunitabisht22/Vrinda-store-Annual-Report-2023-Analysis/assets/84614536/573c8033-b277-4767-bbc8-8bed76136d35)
 
 ## Project Insights:
 
